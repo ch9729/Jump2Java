@@ -1,6 +1,6 @@
 package ch03;
 
-public class Ch04_Array {
+public class Ch03_Array {
 
     public static void main(String[] args) {
 
