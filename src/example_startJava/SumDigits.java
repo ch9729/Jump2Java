@@ -10,7 +10,7 @@ public class SumDigits {
 
         int total = oneDigit + twoDigit + threeDigit;
 
-        System.out.println(total);
+        System.out.println("총합 : " + total);
 
     }
 }
