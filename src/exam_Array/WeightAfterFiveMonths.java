@@ -15,10 +15,10 @@ public class WeightAfterFiveMonths {
     }
 
     private static double weight(double currentWeight, int months) {
-        double expectedWeight = currentWeight;
+
         for(int i = 1; i <= months; i++) {
-            expectedWeight += 0.231;
+            currentWeight += 0.231;
         }
-        return expectedWeight;
+        return currentWeight;
     }
 }

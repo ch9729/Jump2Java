@@ -1,5 +1,6 @@
 package exam_Array;
 
+//https://blog.naver.com/drv98/222018536894 참고 공부
 public class AEIOU {
 
     public static void main(String[] args) {

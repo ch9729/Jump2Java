@@ -1,5 +1,5 @@
 package example_StartJava;
-
+//https://blog.naver.com/drv98/222021977059 참고공부
 import java.util.Scanner;
 
 public class Alba {
