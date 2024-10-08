@@ -11,6 +11,10 @@ class Anima {
 
 //자식 클래스 (Animal 클래스를 상속받는다)
 class Dog extends Anima {
+    //생성자는 클래스명과 똑같고 리턴 타입이 없다.
+    Dog() {  //기본(디폴트)생성자 (생략 가능)
+    }
+
     void sleep() {
         System.out.println(this.name + "는 잔다.");
     }
