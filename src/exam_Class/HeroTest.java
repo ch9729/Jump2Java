@@ -1,7 +1,5 @@
 package exam_Class;
 
-
-
 class Hero {
     String name;
     int hp;
