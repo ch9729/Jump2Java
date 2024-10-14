@@ -1,4 +1,4 @@
-package eaxm_Modifier;
+package exam_Modifier;
 
 import java.util.ArrayList;
 

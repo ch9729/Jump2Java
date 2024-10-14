@@ -1,6 +1,5 @@
-package eaxm_Modifier;
+package exam_Modifier;
 //https://blog.naver.com/drv98/222021904573 참고공부
-import java.util.HashSet;
 import java.util.TreeSet;
 
 public class SetExample {
