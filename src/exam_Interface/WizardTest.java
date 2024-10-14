@@ -42,6 +42,7 @@ class GreatWizard extends Wizard {
 
     @Override
     public void energeVolt() {
+        //System.out.printf("%s의 에너지볼트! (대마법사 버프로 데미지 +30 추가)\n", name);
         super.energeVolt();
         System.out.printf("(대마법사 버프로 데미지 +30 추가)");
     }

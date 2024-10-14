@@ -29,7 +29,6 @@ public class Marathon {
             hm.put(name,value);
         }
 
-        //
         for(String name : hm.keySet()){
             if(hm.get(name) == 1)answer = name;
         }
